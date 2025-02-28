@@ -1,0 +1,13 @@
+Analyze this sales data and generate key insights, including total revenue, average sales per month, and top-performing products
+Summarize this dataset by calculating totals, averages, and trends over the past six months
+Create a pivot table to show monthly sales performance categorized by product and region
+
+Format this spreadsheet to improve readability by applying conditional formatting, bold headers, and proper column widths.
+Remove duplicate entries and clean up inconsistent formatting in this dataset.
+Standardize the date formats and ensure all text fields are properly capitalized.
+Make the first letter of the name column capitalized
+
+
+Generate a bar chart showing quarterly revenue growth based on this data
+Create an automated financial report that updates when new data is entered
+Build a dashboard summarizing key performance indicators (KPIs) using charts and tables

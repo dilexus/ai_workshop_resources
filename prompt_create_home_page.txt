@@ -1,0 +1,6 @@
+create a very modern, elegant web page for my self. give me html css and js file in a single html file. my details: 	
+My full name is Chatura Dilan Perera.
+normally wake up at 4:30 a.m.
+am a Software Developer.
+You are interested in Sri Lankan food and English Movies.
+You enjoy traveling and have visited places like Negombo, Belihuloya which you found very beautiful.

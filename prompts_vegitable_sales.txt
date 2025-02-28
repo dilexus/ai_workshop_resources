@@ -1,0 +1,5 @@
+Which vegetable is most popular in each district?
+When is the best time to sale beans?
+Are there any seasonal patterns in vegetable sales? (Show me in a Heatmap)
+Give me a line chart of carrot sales in Colombo by month
+Give me n pie chat of veritable sales by district

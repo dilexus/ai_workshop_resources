@@ -1,0 +1,11 @@
+Could you please explain the fields in the dataset?
+What are the top 5 happiest countries?
+What is the happiest country in South Asia?
+Can you provide a regional visualization of happiness in South Asian countries?
+Can you explain how easy or difficult it is to have the freedom to make life choices in Sri Lanka?
+
+
+How generous are Sri Lankans compared to other nations?
+Compare Sri Lanka’s generosity with other countries in South Asia? 
+How does Sri Lanka’s freedom to make life choices compare with neighboring countries?
+What is the impact of life expectancy on happiness in Sri Lanka? 
