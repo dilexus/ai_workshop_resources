@@ -1,0 +1,8 @@
+Convert this data into a well-structured table with proper labels
+
+| ID  | Name              | Role               | Location          |
+|---- |----------------- |------------------ |------------------ |
+| 1   | Dilan Perera     | Senior Architect  | Colombo, Sri Lanka |
+| 2   | Sanduni Perera   | UI/UX Designer    | Kandy, Sri Lanka   |
+| 3   | Tharindu Senanayake | Mobile Developer | Galle, Sri Lanka  |
+| 4   | Hiruni Fernando  | QA Engineer       | Jaffna, Sri Lanka  |
