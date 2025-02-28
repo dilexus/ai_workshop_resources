@@ -1,0 +1,5 @@
+curl http://localhost:11434/api/generate -d '{
+  "model": "deepseek-r1:14b",
+  "prompt": "Tell me about DeepSeek AI",
+  "stream": false
+}'
